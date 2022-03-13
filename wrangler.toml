@@ -1,0 +1,11 @@
+name = "blog-api"
+type = "javascript"
+
+account_id = "97066b7c1c7a8a730e1b12117a572e7d"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-01-01"
+kv_namespaces = [
+         { binding = "KV", id = "19ac244a8f6e4d0e856e7d473413744d" }
+]
