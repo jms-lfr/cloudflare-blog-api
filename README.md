@@ -1,4 +1,4 @@
-# Backend api for [Cloudflare Blog](https://github.com/jms-lfr/cloudflare-blog) using workers 
+# Backend API for [Cloudflare Blog](https://github.com/jms-lfr/cloudflare-blog) using Workers 
 
 [`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
 
